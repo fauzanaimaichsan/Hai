@@ -1,0 +1,4 @@
+function myFunction(){
+    document.getElementById("gambar").src = "https://cdn.pixabay.com/photo/2016/11/18/15/46/birthday-1835443_1280.jpg";
+    document.getElementById("tulisan").innerHTML = "Selamat Ulang Tahun Sayangku Cintaku Cantikku, Semoga Panjang Umur, Sehat Selalu Dan Semoga Semua Yang Diinginkan Cepat Tercapai Aminn. Pesan Aku Buat Ayy, Jangan Pernah Bosan Sama Aku, Jangan Pernah Berubah, Tetap Jadi Ayy Yang Aku Kenal, Jangan Pernah Tinggalin Aku hehe, mungkin itu aja yang bisa aku sampaikan sama satu lagi kurangin egonya kalau lagi marah hehe. I Love You Sayanggggku cintakku cantikku. From Fauzan";
+  }
